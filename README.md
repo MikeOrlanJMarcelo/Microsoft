@@ -1,1 +1,1 @@
-This repository is a hands-on lab for Microsoft Identity and Access Administrator.
+This repository contains several hands-on labs for practice.
